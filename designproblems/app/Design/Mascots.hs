@@ -1,0 +1,1 @@
+module Design.Mascots where
